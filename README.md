@@ -6,5 +6,3 @@ OpenCore 0.7.2
 
 Everything works except audio...Fix yourself
 
-
-https://drive.google.com/file/d/1dUf5pPpUxvj8EclKLVT4dI2wM-ehErAb/view?usp=sharing
